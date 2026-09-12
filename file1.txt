@@ -1,2 +1,0 @@
-This is a new file for my code.
-I am a aws engineer.
